@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "sessions/*",
+    ".wwebjs_auth/*",
+    "node_modules/*"
+  ],
+  "watch": ["controllers", "routes", "models", "server.js"],
+  "ext": "js,json"
+}

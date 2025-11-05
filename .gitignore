@@ -1,0 +1,28 @@
+node_modules
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# WhatsApp Web.js authentication data
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Upload files
+uploads/*.png
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.gif
+uploads/*.mp4
+uploads/*.webp
+uploads/*.pdf
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
